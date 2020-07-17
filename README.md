@@ -10,7 +10,7 @@ When you want to run scripts, you have to make sure you're always in the root di
 
 Example:
 
-$ react-native-helpers/package-installer/package-installer.sh
+``$ react-native-helpers/package-installer/package-installer.sh``
 
 ## Available Helper Scripts
 
