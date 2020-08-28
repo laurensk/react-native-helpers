@@ -26,7 +26,7 @@ print_screen()
 {
     clear
     echo ""
-    echo "WELCOME TO JESUS-CHRISTUS FOR REACT-NATIVE"
+    echo "WELCOME TO PROJECT-REBUILDER FOR REACT-NATIVE"
     echo "I will fix your React-Native app in case nothing is working anymore!"
     echo ""
     echo "Warning: Please commit to git first. Just in case..."
@@ -38,7 +38,7 @@ exit_script()
 {
     clear
     echo ""
-    echo "As the Father has loved me, so have I loved you."
+    echo "Bye!"
     echo ""
     echo ""
 }
